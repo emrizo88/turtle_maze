@@ -1,0 +1,2 @@
+set(csrtle_MESSAGE_FILES "/root/catkin_ws/src/csrtle/msg/PoseOrntBundle.msg;/root/catkin_ws/src/csrtle/msg/timeInt8.msg;/root/catkin_ws/src/csrtle/msg/bumpEcho.msg;/root/catkin_ws/src/csrtle/msg/aendEcho.msg")
+set(csrtle_SERVICE_FILES "/root/catkin_ws/src/csrtle/srv/Kill.srv;/root/catkin_ws/src/csrtle/srv/Spawn.srv;/root/catkin_ws/src/csrtle/srv/RTIbump.srv;/root/catkin_ws/src/csrtle/srv/RTIatend.srv")

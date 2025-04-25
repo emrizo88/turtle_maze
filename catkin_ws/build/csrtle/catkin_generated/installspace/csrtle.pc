@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: csrtle
+Description: Description of csrtle
+Version: 0.8.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs std_srvs
